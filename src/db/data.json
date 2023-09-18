@@ -1,0 +1,18 @@
+[
+  {
+    "id":1,
+    "nombre": "Isabella",
+    "apellido": "Collante",
+    "direccion": "Cra18A#68B16",
+    "correo": "collantemendezisabella@gmail.com",
+    "telefono": 301291437
+  },
+  {
+    "id": 2,
+    "nombre": "Moises",
+    "apellido": "David",
+    "direccion": "Cra32781B16",
+    "correo": "moises30@gmail.com",
+    "telefono": 72384437
+  }
+]
